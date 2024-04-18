@@ -11,6 +11,8 @@ out/
 .settings
 .springBeans
 .sts4-cache
+.idea/
+
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
@@ -27,3 +29,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/HomeTask1.iml
